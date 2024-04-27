@@ -69,7 +69,7 @@ public class Producto {
 		System.out.println("Descripcion: "+descr);
 		System.out.println("Precio: "+precioU);
 		System.out.println("Origen de fabricacion: "+or_fab);
-		System.out.println("Categoria: "+cat);
+		System.out.println("Categoria: "+cat+"\n");
 	}
 	
 }

@@ -18,7 +18,7 @@ public class Menu {
 	}
 	
 	public void ElegirCategoria() {
-		System.out.println("\n***ORIGEN DE FABRICACION***");
+		System.out.println("\n***CATEGORIA***");
 		System.out.println("1-Telefonia \n2-Informatica \n3-Electrohogar \n4-Herramienta");
 		System.out.print("Elija una opcion: ");
 	}
